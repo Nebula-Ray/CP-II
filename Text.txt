@@ -1,0 +1,7 @@
+The quick brown fox jumps over the lazy dog.
+This is a sample text file used for testing purposes.
+The purpose of this text is to serve as test data for a Java Data Streams application.
+Data streams can filter specific lines that contain certain keywords.
+This example demonstrates how Java Stream and filter with lambda expressions work.
+Searching and filtering files using Java can be powerful and efficient.
+Streams are a modern way to handle large files and data processing.

@@ -1,0 +1,7 @@
+Java programming is widely used in enterprise applications.
+Streams and lambdas make Java more powerful and expressive.
+Data processing in Java has been simplified with the introduction of the Stream API.
+Developers can use lambdas for concise and readable code.
+Modern Java applications rely on data streams for efficient handling of data.
+File processing in Java is now easier with the Files and Paths classes.
+Using streams is an effective way to filter, map, and reduce data in large files.
